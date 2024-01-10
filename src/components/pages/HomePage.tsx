@@ -1,7 +1,7 @@
 import { PageTemplate } from "./PageTemplate";
 
 export const HomePage = () => (
-    <PageTemplate headerImageURI="./src/assets/Home3.jpg" header="Home">
+    <PageTemplate headerImageURI="https://upload.wikimedia.org/wikipedia/commons/e/e0/Spotting_a_Sea_Turtle.jpg" header="Home">
         <p className="text-sm ">
             Nearly all species of sea turtle are now classified as endangered, with three of the seven existing species being critically endangered. This app was designed with the purpose of addressing the critical need for public education surrounding the conservation of sea turtles in the Jekyll Island, Georgia region. All information contained within this website was obtained by authorative sources including the Georgia Department of Natural Resources, and the Georgia Sea Turtle Center. </p>
             <br></br>

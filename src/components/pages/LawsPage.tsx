@@ -1,7 +1,7 @@
 import { PageTemplate } from "./PageTemplate";
 
 export const LawsPage = () => (
-    <PageTemplate headerImageURI="./src/assets/MapJekyllIsland.png" header="Laws" showGauge={false}>
+    <PageTemplate headerImageURI="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Figure_1_-_Map_of_Jekyll_Island.png/588px-Figure_1_-_Map_of_Jekyll_Island.png?20210414023925" header="Laws" showGauge={false}>
         <p>
             Certain laws and regulations have been passed which are intended to further 
             sea turtle conservation efforts. It is your responsibility to 

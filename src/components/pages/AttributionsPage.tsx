@@ -12,6 +12,9 @@ export const AttributionsPage = () => (
             <li><a href="https://commons.wikimedia.org/wiki/File:Spotting_a_Sea_Turtle.jpg">
             A sea turtle swimming through the ocean in Maui, Hawaii. by Ashley Lee, licensed under CC Attribution 4.0 International License
             </a></li>
+            <li>
+                <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Chelonia_Mydas_%28cropped%29.JPG/1200px-Chelonia_Mydas_%28cropped%29.JPG?20180307235014">Chelonia mydas in the Caribbean sea off the coast of Curacao by Bthv, licensed under the CC Attribution-Share Alike 3.0 Unported</a>
+            </li>
             <li><a href="https://commons.wikimedia.org/wiki/File:Figure_1_-_Map_of_Jekyll_Island.png">
             Illustration from A Field Guide to Jekyll Island (1983). by Carol Johnson (illustrator), Public Domain.
             </a></li>

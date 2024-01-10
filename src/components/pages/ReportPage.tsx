@@ -1,7 +1,7 @@
 import { PageTemplate } from "./PageTemplate";
 
 export const ReportPage = () => (
-    <PageTemplate headerImageURI="./src/assets/GeorgiaSeaTurtleCenter4.jpg" header="Report" showGauge={false}>
+    <PageTemplate headerImageURI="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/108_Georgia_Sea_Turtle_Center%2C_Jekll_Island%2C_Georgia.jpg/1200px-108_Georgia_Sea_Turtle_Center%2C_Jekll_Island%2C_Georgia.jpg?20190207172944" header="Report" showGauge={false}>
         <h2 className="text-lg font-bold font-lotus-eden">How to Report a Sick or Injured Sea Turtle</h2>
         <p></p>
         <p className="text-sm">

@@ -13,7 +13,7 @@ export const PageTemplate = (props: PageTemplate) => {
             <div
                 className='relative w-screen h-[400px] md:h-[500px] bg-cover bg-center'
                 style={{
-                    backgroundImage: `url(${props.headerImageURI ?? "./src/assets/Home1.jpeg"})`
+                    backgroundImage: `url(${props.headerImageURI ?? "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Green_Turtle_Chelonia_Mydas_%28224075535%29.jpeg/1200px-Green_Turtle_Chelonia_Mydas_%28224075535%29.jpeg?20180806181838"})`
                 }}
             >
             <div className="absolute w-screen h-full bg-neutral-900/50" />

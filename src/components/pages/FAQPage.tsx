@@ -1,7 +1,7 @@
 import { PageTemplate } from "./PageTemplate";
 
 export const FAQPage = () => (
-    <PageTemplate headerImageURI="./src/assets/General1.jpg" header="Frequently Asked Questions" showGauge={false}>
+    <PageTemplate headerImageURI="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/21-06-025-beach.jpg/1200px-21-06-025-beach.jpg?20210602005743" header="Frequently Asked Questions" showGauge={false}>
         <br/>
 
         <h2 className="text-lg font-bold font-lotus-eden">Which Species Of Sea Turtles Are Most Commonly Found In The Golden Isles Region?</h2>
