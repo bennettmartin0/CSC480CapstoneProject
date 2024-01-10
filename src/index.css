@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.frosted-glass {
+    backdrop-filter: blur(12px);
+}
+.frosted-glass-lite {
+    backdrop-filter: blur(2px);
+}
+
+.inset-shadow {
+    -webkit-box-shadow: inset 0px 4px 25px -9px #000000; 
+    box-shadow: inset 0px 4px 25px -9px #000000;
+}
