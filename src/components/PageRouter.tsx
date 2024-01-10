@@ -1,4 +1,4 @@
-import { Routes, Route, BrowserRouter } from "react-router-dom";
+import { Routes, Route } from "react-router-dom";
 import { ErrorPage } from "./pages/ErrorPage";
 import { FactsPage } from "./pages/FactsPage";
 import { LawsPage } from "./pages/LawsPage";
@@ -7,9 +7,7 @@ import { FAQPage } from "./pages/FAQPage";
 import { HomePage } from "./pages/HomePage";
 import { AttributionsPage } from "./pages/AttributionsPage";
 
-interface PageRouter {
-}
-export const PageRouter = (props: PageRouter) => {
+export const PageRouter = () => {
 
     return (
             <Routes>

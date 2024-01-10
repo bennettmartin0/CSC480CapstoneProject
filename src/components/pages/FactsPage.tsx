@@ -26,11 +26,9 @@ export const FactsPage = () => (
         <p className="text-sm my-4">When female sea turtles come ashore for nesting season, they nestle down in the sand to create indents called a "body pit."</p>
         <p className="text-sm my-4">Most female sea turtles return to the same beach each time they are ready to nest—they may even construct their new body pit and nest just a few yards away from the location of their last body pit! Sea turtle migration habits are a truly remarkable phenomenon in the animal kingdom.</p>
         <p className="text-sm my-4">The main threats to Georgia sea turtles are nest predation by hogs, raccoons, and dogs, and drowning as bycatch in longline and shrimping nets.</p>
-
         <br />
         <hr />
         <br />
-
         <p className="text-center font-bold text-sm font-lotus-eden">Resources</p>
         <ul>
             <li>

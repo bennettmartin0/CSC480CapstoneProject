@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 import { geotag_filled, menu, turtleLogo, x } from "./NavIcons";
 
 export const NavBar = () => {
-    const screen_resizer = useHookOntoScreen(); // Allows the component to dynamically change itself as the screen resizes.
+    useHookOntoScreen(); // Allows the component to dynamically change itself as the screen resizes.
     const [ menuOpened, setMenuOpened ] = useState(false); // State always has to be stored in the root component. It can't be moved to "MobileView".
 
     // New buttons can be created by adding them below.

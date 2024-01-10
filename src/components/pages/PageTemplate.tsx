@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { ActivityLevels, TurtleGauge } from "../turtle_gauge/TurtleGauge";
+import { TurtleGauge } from "../turtle_gauge/TurtleGauge";
 
 type PageTemplate = {
     header: string;
